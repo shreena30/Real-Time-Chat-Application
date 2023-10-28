@@ -7,7 +7,7 @@
 Open terminal and type the following command
 
 ```
-git clone https://github.com/visheshdvivedi/Real-Time-Chat-Application
+git clone https://github.com/shreena30/Real-Time-Chat-Application
 ```
 
 Or you can directly download from this page
